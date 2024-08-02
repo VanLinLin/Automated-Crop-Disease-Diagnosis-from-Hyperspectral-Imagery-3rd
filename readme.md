@@ -47,7 +47,7 @@ YOUR_PATH/AUTOMATED-CROP-DISEASE-DIAGNOSIS-FROM-HYPERSPECTRAL-IMAGERY-3RD
 │  └─SSAM_SWIN.py
 ├─utils
 │  └─dataset.py
-└─weights
+└─weights             <- *Put 3 weights into this folder*
    ├─RCAN.pth
    ├─SSAM_ConvNeXt.pt
    └─SSAM_SWIN.pth
