@@ -1,0 +1,5 @@
+archive/*
+weights/*
+ICPR01/*
+*.zip
+.venv
