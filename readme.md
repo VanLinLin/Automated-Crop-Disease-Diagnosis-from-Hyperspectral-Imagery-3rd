@@ -19,7 +19,7 @@ Then unzip the ```beyond-visible-spectrum-ai-for-agriculture-2024.zip```.
 > ⚠️ After unzip, you will have ```acrhive``` and ```ICPR01``` folders, they are both datasets. We only train and evaluation on ICPR01 dataset since the ```archive``` dataset is the old version one.
 
 ## 2.2 Weights
-Download the pretrained weights from [here](https://drive.google.com/drive/u/3/folders/1tK9ECxINYIRlpNZKV9hv_hU61NiolkRC).
+Download the pretrained weights from [here](https://drive.google.com/drive/folders/1tK9ECxINYIRlpNZKV9hv_hU61NiolkRC?usp=sharing).
 
 
 Move them into folder ```weights```
