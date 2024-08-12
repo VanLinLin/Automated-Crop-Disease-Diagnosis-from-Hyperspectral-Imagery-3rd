@@ -39,4 +39,23 @@ YOUR_PATH\AUTOMATED-CROP-DISEASE-DIAGNOSIS-FROM-HYPERSPECTRAL-IMAGERY-3RD
 
 
 # 3. Predict
+Run the ```ML_methods.ipynb``` can generate the submission files, will be saved in folder ```results```.
 
+```
+D:\SIDE_PROJECT\AUTOMATED-CROP-DISEASE-DIAGNOSIS-FROM-HYPERSPECTRAL-IMAGERY-3RD
+├─beyond-visible-spectrum-ai-for-agriculture-2024
+│  ├─archive
+│  │  ├─train
+│  │  │  ├─Health
+│  │  │  ├─Other
+│  │  │  └─Rust
+│  │  └─val
+│  │      └─val
+│  └─ICPR01
+│      └─kaggle
+│          ├─1
+│          ├─2
+│          └─evaluation
+├─results                   <- *Submissions will saved in here*
+└─__pycache__
+```
