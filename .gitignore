@@ -3,3 +3,5 @@ weights/*
 ICPR01/*
 *.zip
 .venv
+beyond-visible-spectrum*
+__pycache__
