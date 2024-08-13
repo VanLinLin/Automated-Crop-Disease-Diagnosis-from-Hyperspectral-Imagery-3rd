@@ -22,7 +22,7 @@ Then unzip the ```beyond-visible-spectrum-ai-for-agriculture-2024.zip```.
 The folder structure will like this:
 ```
 YOUR_PATH\AUTOMATED-CROP-DISEASE-DIAGNOSIS-FROM-HYPERSPECTRAL-IMAGERY-3RD
-└─beyond-visible-spectrum-ai-for-agriculture-2024
+└─beyond-visible-spectrum-ai-for-agriculture-2024  <-*Dataset*
   ├─archive
   │  ├─train
   │  │  ├─Health
@@ -56,6 +56,6 @@ D:\SIDE_PROJECT\AUTOMATED-CROP-DISEASE-DIAGNOSIS-FROM-HYPERSPECTRAL-IMAGERY-3RD
 │          ├─1
 │          ├─2
 │          └─evaluation
-├─results                   <- *Submissions will saved in here*
+├─results                   <- *Submissions files will saved in here*
 └─__pycache__
 ```
